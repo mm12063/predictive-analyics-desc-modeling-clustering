@@ -1,0 +1,157 @@
+The following value(s) of K, achieved the highest accuracy value of 1.0.
+
+Value of k: 1
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 2
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 3
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 4
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 5
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 6
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 7
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 8
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 9
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 10
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 11
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 12
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 13
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 14
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 15
+Confusion Matrix:
+C1 |5|0|0|
+C4 |0|3|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 16
+Confusion Matrix:
+C1 |6|0|0|
+C4 |0|2|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 17
+Confusion Matrix:
+C1 |6|0|0|
+C4 |0|2|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 18
+Confusion Matrix:
+C1 |6|0|0|
+C4 |0|2|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 19
+Confusion Matrix:
+C1 |6|0|0|
+C4 |0|2|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 20
+Confusion Matrix:
+C1 |6|0|0|
+C4 |0|2|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 21
+Confusion Matrix:
+C1 |6|0|0|
+C4 |0|2|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+Value of k: 22
+Confusion Matrix:
+C1 |6|0|0|
+C4 |0|2|0|
+C7 |0|0|2|
+Accuracy: 1.0
+
+

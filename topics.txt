@@ -1,0 +1,36 @@
+C7 Keywords: 
+bank – 0.0273
+mortgage – 0.0246
+million – 0.0188
+rate – 0.0175
+increase – 0.0114
+need – 0.0097
+people – 0.0089
+ministry – 0.0088
+key – 0.0078
+row – 0.0077
+
+C1 Keywords: 
+land – 0.0396
+million – 0.0275
+civil – 0.0274
+security – 0.0264
+flight – 0.0237
+administration – 0.0219
+ministry – 0.0218
+air – 0.0202
+set – 0.0202
+month – 0.0188
+
+C4 Keywords: 
+report – 0.0292
+agriculture – 0.0199
+large – 0.0132
+market – 0.0132
+foreign – 0.0132
+key – 0.0121
+country – 0.0121
+europe – 0.0115
+source – 0.0111
+serious – 0.0109
+
